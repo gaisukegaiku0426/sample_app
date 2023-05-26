@@ -1,0 +1,29 @@
+[33mcommit 1b3310295b971b2af38ab61da8680d32295c9f15[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mstatic-pages[m[33m)[m
+Author: gaisukegaiku0426 <116056579+gaisukegaiku0426@users.noreply.github.com>
+Date:   Fri May 26 06:13:33 2023 +0000
+
+    Finish static pages
+
+[33mcommit 6f643d7979078f4216afac95780aeb946f0cfa7c[m
+Author: gaisukegaiku0426 <116056579+gaisukegaiku0426@users.noreply.github.com>
+Date:   Thu May 18 22:41:03 2023 +0000
+
+    Exec:rails g controller StaticPages home help
+
+[33mcommit 093c3c0a95db6015d8a3906e113a43a38dc6d4a2[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: gaisukegaiku0426 <116056579+gaisukegaiku0426@users.noreply.github.com>
+Date:   Sun May 14 03:22:37 2023 +0000
+
+    Improve the README
+
+[33mcommit 9cb5ab25c30926ad73fc011befcaef263a7714f4[m
+Author: gaisukegaiku0426 <116056579+gaisukegaiku0426@users.noreply.github.com>
+Date:   Sun May 14 02:54:36 2023 +0000
+
+    Improve the README
+
+[33mcommit 566c8e93e741950a58ab2de86b2b680a9d23fd82[m
+Author: gaisukegaiku0426 <116056579+gaisukegaiku0426@users.noreply.github.com>
+Date:   Sun May 14 11:40:44 2023 +0900
+
+    Initial commit
